@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkgroceriesapp"]=globalThis["webpackChunkgroceriesapp"]||[]).push([[152],{4152:(r,e,a)=>{a.r(e),a.d(e,{default:()=>c});var n=a(9835);function t(r,e,a,t,o,s){const u=(0,n.up)("router-view");return(0,n.wg)(),(0,n.j4)(u)}const o=(0,n.aZ)({name:"PrintLayout"});var s=a(1639);const u=(0,s.Z)(o,[["render",t]]),c=u}}]);
